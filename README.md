@@ -1,4 +1,5 @@
 # Generate-a-random-value-in-an-array-that-has-lists-of-object
+check index.js
 Create an array of Group A, Group B and places
 assign items to those array as name
 create a variable that randomly selects GroupA name and GroupB name and places
